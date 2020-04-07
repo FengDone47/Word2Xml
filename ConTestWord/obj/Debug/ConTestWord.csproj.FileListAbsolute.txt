@@ -1,0 +1,12 @@
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\ConTestWord.exe.config
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\ConTestWord.exe
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\ConTestWord.pdb
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.Doc.dll
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.License.dll
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.Pdf.dll
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Microsoft.mshtml.dll
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.Doc.xml
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.License.xml
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\bin\Debug\Spire.Pdf.xml
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\obj\Debug\ConTestWord.exe
+D:\MyCode\C#\Work\MySolution\dll_test\ConTestWord\obj\Debug\ConTestWord.pdb
